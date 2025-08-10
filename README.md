@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<details>
+<summary>Nothing of interest 👀</summary>
+
+![Hi](Git2.png)
+
+This is my private playground.\
+Nothing to see here...
+
+</details>
+
+
